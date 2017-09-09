@@ -1,10 +1,10 @@
 ---
-title: 新建文章头
-tags: hexo,视频,教程（这里写标签）
+title: git - 简易指南
+tags: git
 grammar_cjkRuby: true
-password: 这里写密码
+password: 
 categories:  这里写分类
-top: 100shuz数值越大越靠前
+top: 
 ---
 <hr>
 
