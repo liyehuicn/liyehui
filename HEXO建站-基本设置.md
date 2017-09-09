@@ -15,6 +15,7 @@ categories: hexo
 *   2、HEXO网站的配置文件与基本配置
 
 ## HEXO的基本命令与基本目录结构
+![enter description here][1]
 <!--more-->
 基本目录结构
 
@@ -430,3 +431,6 @@ archive_generator:
 tag_generator:
   per_page: 10
 ```
+
+
+  [1]: https://www.github.com/liyehuicn/liyehui/raw/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1504927320392.jpg
