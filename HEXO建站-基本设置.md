@@ -97,7 +97,7 @@ hexo help # 查看帮助
 
 hexo version #查看Hexo的版本
 
-## HEXO网站的配置文件与基本配置
+## HEXO网站配置文件与基本配置
 
 ### HEXO网站的配置文件
 
@@ -274,7 +274,8 @@ version: 0.4.5.1
 ``` stylus
 favicon: /favicon.ico
 ```
-#### 语言设置 **主要语言代码：** English (en) 中文简体 (zh-Hans) French (fr-FR) 正体中文 (zh-hk/zh-tw) Russian (ru) German (de) **站点配置文件下定义语言：**
+#### 语言设置 
+**主要语言代码：** English (en) 中文简体 (zh-Hans) French (fr-FR) 正体中文 (zh-hk/zh-tw) Russian (ru) German (de) **站点配置文件下定义语言：**
 
 ``` stylus
 language: zh-hk
@@ -391,7 +392,7 @@ source 目录下新建 404.html 页面
 </body>
 </html>
 ```
-##### 文章摘录
+#### 文章摘录
 
 NexT 支持三种方式来控制首页文章的显示方式
 1.在文章中使用 手动进行截断
