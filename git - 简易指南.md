@@ -2,7 +2,7 @@
 title: git - 简易指南
 tags: git
 grammar_cjkRuby: true
-password: 
+password: 789456123
 categories:  这里写分类
 top: 
 ---
