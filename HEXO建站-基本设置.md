@@ -15,7 +15,7 @@ categories: hexo
 *   2、HEXO网站的配置文件与基本配置
 
 ## HEXO的基本命令与基本目录结构
-
+<!--more-->
 基本目录结构
 
 **主目录**
@@ -31,6 +31,7 @@ categories: hexo
 ├── themes        #主题
 ├── _config.yml   #全局配置文件
 └── package.json
+
 ```
 **主题目录**
 
