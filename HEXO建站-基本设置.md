@@ -433,4 +433,4 @@ tag_generator:
 ```
 
 
-  [1]: https://www.github.com/liyehuicn/liyehui/raw/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1504927320392.jpg
+  [1]: https://www.github.com/liyehuicn/liyehui/raw/master/img/1504928376915.jpg
